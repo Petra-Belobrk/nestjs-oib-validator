@@ -1,6 +1,6 @@
 {
   "name": "nestjs-oib-validator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "class-validator IsOIB decorator for validating the Croatian OIB (osobni identifikacijski broj) in NestJS DTOs",
   "author": "Petra Mlinarević",
   "license": "MIT",
@@ -15,6 +15,14 @@
     "croatian",
     "iso-7064"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petra-Belobrk/nestjs-oib-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Petra-Belobrk/nestjs-oib-validator/issues"
+  },
+  "homepage": "https://github.com/Petra-Belobrk/nestjs-oib-validator#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
