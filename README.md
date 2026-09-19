@@ -1,5 +1,10 @@
 # nestjs-oib-validator
 
+[![npm version](https://img.shields.io/npm/v/nestjs-oib-validator.svg)](https://www.npmjs.com/package/nestjs-oib-validator)
+[![CI](https://github.com/Petra-Belobrk/nestjs-oib-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/Petra-Belobrk/nestjs-oib-validator/actions/workflows/ci.yml)
+[![types](https://img.shields.io/npm/types/nestjs-oib-validator.svg)](https://www.npmjs.com/package/nestjs-oib-validator)
+[![license](https://img.shields.io/npm/l/nestjs-oib-validator.svg)](./LICENSE)
+
 A `class-validator` decorator for validating the Croatian **OIB** (_osobni identifikacijski broj_) in NestJS DTOs.
 
 ```ts
